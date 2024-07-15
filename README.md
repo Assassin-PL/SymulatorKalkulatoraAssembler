@@ -14,7 +14,7 @@ Ten projekt to symulator mikroprocesora napisany w C++ i assemblerze. Główne f
 ## Instalacja
 1. Sklonuj repozytorium:
     ```sh
-    git clone https://gitlab.com/your-username/your-repository.git
+    git clone https://github.com/Assassin-PL/SymulatorKalkulatoraAssembler.git
     ```
 2. Przejdź do katalogu projektu:
     ```sh
